@@ -18,6 +18,14 @@
 		E68708F316788DC000511424 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E68708F216788DC000511424 /* Default-568h@2x.png */; };
 		E68708F616788DC000511424 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E68708F516788DC000511424 /* ViewController.m */; };
 		E68708F916788DC000511424 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E68708F716788DC000511424 /* ViewController.xib */; };
+		E687090016788DD700511424 /* img1.gif in Resources */ = {isa = PBXBuildFile; fileRef = E68708FF16788DD700511424 /* img1.gif */; };
+		E687090216788DDF00511424 /* img2.gif in Resources */ = {isa = PBXBuildFile; fileRef = E687090116788DDF00511424 /* img2.gif */; };
+		E687090416788E3200511424 /* img3.gif in Resources */ = {isa = PBXBuildFile; fileRef = E687090316788E3200511424 /* img3.gif */; };
+		E687090616788E3500511424 /* img4.gif in Resources */ = {isa = PBXBuildFile; fileRef = E687090516788E3500511424 /* img4.gif */; };
+		E687090816788E3900511424 /* img5.gif in Resources */ = {isa = PBXBuildFile; fileRef = E687090716788E3900511424 /* img5.gif */; };
+		E687090A16788E3E00511424 /* img6.gif in Resources */ = {isa = PBXBuildFile; fileRef = E687090916788E3E00511424 /* img6.gif */; };
+		E687090C16788E4100511424 /* img7.gif in Resources */ = {isa = PBXBuildFile; fileRef = E687090B16788E4100511424 /* img7.gif */; };
+		E687090E16788E4500511424 /* img8.gif in Resources */ = {isa = PBXBuildFile; fileRef = E687090D16788E4500511424 /* img8.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +45,14 @@
 		E68708F416788DC000511424 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E68708F516788DC000511424 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E68708F816788DC000511424 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		E68708FF16788DD700511424 /* img1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = img1.gif; sourceTree = "<group>"; };
+		E687090116788DDF00511424 /* img2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = img2.gif; sourceTree = "<group>"; };
+		E687090316788E3200511424 /* img3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = img3.gif; sourceTree = "<group>"; };
+		E687090516788E3500511424 /* img4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = img4.gif; sourceTree = "<group>"; };
+		E687090716788E3900511424 /* img5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = img5.gif; sourceTree = "<group>"; };
+		E687090916788E3E00511424 /* img6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = img6.gif; sourceTree = "<group>"; };
+		E687090B16788E4100511424 /* img7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = img7.gif; sourceTree = "<group>"; };
+		E687090D16788E4500511424 /* img8.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = img8.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +104,14 @@
 				E68708F416788DC000511424 /* ViewController.h */,
 				E68708F516788DC000511424 /* ViewController.m */,
 				E68708F716788DC000511424 /* ViewController.xib */,
+				E68708FF16788DD700511424 /* img1.gif */,
+				E687090116788DDF00511424 /* img2.gif */,
+				E687090316788E3200511424 /* img3.gif */,
+				E687090516788E3500511424 /* img4.gif */,
+				E687090716788E3900511424 /* img5.gif */,
+				E687090916788E3E00511424 /* img6.gif */,
+				E687090B16788E4100511424 /* img7.gif */,
+				E687090D16788E4500511424 /* img8.gif */,
 				E68708E316788DC000511424 /* Supporting Files */,
 			);
 			path = SonicSpeed;
@@ -163,6 +187,14 @@
 				E68708F116788DC000511424 /* Default@2x.png in Resources */,
 				E68708F316788DC000511424 /* Default-568h@2x.png in Resources */,
 				E68708F916788DC000511424 /* ViewController.xib in Resources */,
+				E687090016788DD700511424 /* img1.gif in Resources */,
+				E687090216788DDF00511424 /* img2.gif in Resources */,
+				E687090416788E3200511424 /* img3.gif in Resources */,
+				E687090616788E3500511424 /* img4.gif in Resources */,
+				E687090816788E3900511424 /* img5.gif in Resources */,
+				E687090A16788E3E00511424 /* img6.gif in Resources */,
+				E687090C16788E4100511424 /* img7.gif in Resources */,
+				E687090E16788E4500511424 /* img8.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
